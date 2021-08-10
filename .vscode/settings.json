@@ -1,8 +1,7 @@
 {
-  "git.enabled": false,
   "files.exclude": {
     ".gitignore": true,
-    ".vscode": true,
+    ".vscode": false,
     "node_modules": true,
     "package-lock.json": true,
     "package.json": true
