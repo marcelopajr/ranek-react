@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Ranek" src=".github/ranek.jpg" width="100%">
+  <img alt="Ranek" src=".github/ranek.JPG" width="100%">
 </p>
 
 ## 💻 Project
