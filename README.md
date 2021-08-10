@@ -24,6 +24,8 @@ Ranek is a mini product portfolio developed with React fetching data from an API
 
 ## 😊 How to run
 
+Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your machine.
+
 ```sh
 - Clone this repo:
 $ git clone https://github.com/marcelopajr/ranek-react.git
